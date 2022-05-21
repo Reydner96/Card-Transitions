@@ -5,7 +5,7 @@
 ### Card creation project 
 ### Using transition to give animation effect
 
-#### _The following items were used to create the car:_
+#### _The following items were used to create the card:_
 <table>
   <tr align="center"> 
     <td> HTML </td>
