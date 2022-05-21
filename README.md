@@ -1,7 +1,21 @@
-# Card-Transitions
-# Projeto de criação de cards  
-# Utilizando Transitions para dar efeito de animação
-# no card.
+## Card-Transitions
 
+> Status: concluded 🆗
 
-# Foi utilizado HTML e CSS 
+### Card creation project 
+### Using transition to give animation effect
+
+#### _The following items were used to create the car:_
+<table>
+  <tr align="center"> 
+    <td> HTML </td>
+    <td> CSS </td>
+  </tr>
+  <tr align="center">
+    <td> 5 </td>
+    <td> 3 </td>
+  </tr>
+</table>
+
+  ### Description:
+  <p>In this project, a card was created with animations. Which are shown when hovering the mouse cursor over the card.</p>
